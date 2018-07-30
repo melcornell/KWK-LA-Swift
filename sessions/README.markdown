@@ -4,19 +4,19 @@
 
 ### Day 1
 
-|Time|Session|Status|Assigned|
-|---|---|---|---|
-|*9:15-9:30*    | Opening Circle | Assigned | EM |
-|*9:30-10:30*   | Welcome to KWK | | Amy/EM |
-|*10:30-11:00*  | Collaboration: Work Styles & Strengthsfinder| Assigned | EM |
-|*11:00-12:00*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)|  | |
+|Time|Session|
+|---|---|
+|*9:15-9:30*    | Opening Circle | 
+|*9:30-10:30*   | Welcome to KWK | 
+|*10:30-11:00*  | Collaboration: Work Styles & Strengthsfinder| 
+|*11:00-12:00*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| 
 |*12:00-1:00*   | Lunch|
-|*1:00-1:30*    | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)|  | |
-|*1:30-2:30*    | [Lab: Commands & Functions (iPad)](playgrounds/commands_and_functions_lab.markdown)|  | |
-|*2:30-2:45*    | [Class: Xcode Intro - Playgrounds](./xcode_intro_slides.markdown) |  | |
-|*2:45-3:15*    | [Data Types & Variables](./data_types_slides.markdown) |  |  |
-|*3:15-4:15*    | [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) |  |  |
-|*4:15-4:45*    | Wrap Up | Assigned | Amy |
+|*1:00-1:30*    | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)| 
+|*1:30-2:30*    | [Lab: Commands & Functions (iPad)](playgrounds/commands_and_functions_lab.markdown)| 
+|*2:30-2:45*    | [Class: Xcode Intro - Playgrounds](./xcode_intro_slides.markdown) | 
+|*2:45-3:15*    | [Data Types & Variables](./data_types_slides.markdown) | 
+|*3:15-4:15*    | [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) | 
+|*4:15-4:45*    | Wrap Up | 
 
 ### Day 2
 
