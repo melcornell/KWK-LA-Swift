@@ -10,15 +10,6 @@
 
 You will have some time to create your own class and some objects from it! You will have plenty of partner time to brainstorm and really plan out your code before you start coding.
 
-### Getting Started
-
-* On your laptop, start the Xcode application by pressing `cmd + space` to bring up the spotlight window, typing in `xcode`, and then pressing return
-* Click `Create a new Xcode project`
-* Under `Choose a template for your new project`, select `macOS`
-* Under `Application`, select `Command Line Tool`
-* Click the blue `Next` button in the bottom right corner
-* You will be prompted to save this file. For `Product Name`, type in "ClassesAndObjects", then click the blue `Create` button in the bottom right corner
-
 ### Classes
 
 In programming, we think of `classes` as blueprints or cookie cutters. They give us the framework for an object, when a lot of objects may have something (or many things!) in common.
