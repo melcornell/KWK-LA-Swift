@@ -38,29 +38,33 @@
 
 |Time|Session|
 |---|---|
-|*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | 
+|*9:15-9:30*  | Stand Up & Technical Warm-Up | 
 |*9:30-10:00* | [Class: For & For-In](./for_in_loops_slides.markdown) | 
 |*10:00-11:00*| [Lab: Practicing Loops](./for_in_loops_lab.markdown) | 
-|*11:00-12:00*| [Challenge: Paired Worktime](./challenges) | 
+|*11:00-12:00*| Dictionary Review | 
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | [Class: Dictionaries](./dictionaries_slides.markdown) |
 |*1:30-2:15*  | [Lab: Using Dictionaries](./dictionaries_lab.markdown) | 
 |*2:15-2:30*  | Brain Break |
 |*2:30-3:15*  | [Class: Classes and Objects](./classes_objects_slides.markdown) |  
-|*3:15-4:15*  | [Lab: Classes and Objects](./classes_objects_lab.markdown) | 
+|*3:15-4:15*  | [Lab: Classes and Objects](./classes_objects_lab.markdown) [Aviatrix Intro](../aviatrix) | | 
 |*4:15-4:45*  | Wrap Up | 
+
+[Aviatrix Intro](../aviatrix)
 
 ### Day 4
 
 |Time|Session|
 |---|---|
-|*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
-|*9:30-10:00* | 🤗[Aviatrix Intro](../aviatrix)🤗 | _Needs Review_ | |
-|*10:00-11:00*| 🤗[Ieration 0: Up and Running](../aviatrix/i0_up_and_running.markdown)🤗 | _Needs Review_ | 
-|*11:00-12:00*| 🤗[Iteration 1: Destinations](../aviatrix/i1_destinations.markdown)🤗 | _Needs Review_ | 
+|*9:15-9:30*  | Welcome, Stand Up & Journaling, Today in Tech | 
+|*9:30-10:00* | [Iteration 0: Up and Running](../aviatrix/i0_up_and_running.markdown)
+|*10:00-10:15*| Regroup |
+|*10:15-11:00*| [Iteration 1: Destinations](../aviatrix/i1_destinations.markdown) | 
+|*11:00-11:15*| Regroup |
+|*11:15-12:00*| [Iteration 2: Distance & Fuel](../aviatrix/i2_distance_and_fuel.markdown) | 
 |*12:00-1:00* | Lunch |
-|*1:00-2:00*  | 🤗[Iteration 1: Routes](../aviatrix/i1_destinations.markdown)🤗 | _Needs Review_ | 
-|*2:00-3:00*  | 🤗[Iteration 2: Distance & Fuel](../aviatrix/i2_distance_and_fuel.markdown)🤗 | _Needs Review_ | 
+|*1:00-2:00*  | Worktime: Finishing Touches |
+|*2:00-3:00*  | Presentations | 
 |*3:00-3:15*  | Brain Break |
 |*3:15-3:45*  | Worktime: Finishing Touches |
 |*3:45-4:15*  | Jigsaw Demo | 
